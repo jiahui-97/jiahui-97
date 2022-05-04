@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning distributed storage and advertising system.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahui-97&theme=flag-india&show_icons=true&hide=stars)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahui-97&theme=flag-india&show_icons=true&hide=stars) -->
 
 <!--
 **jiahui-97/jiahui-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
