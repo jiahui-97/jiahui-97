@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning distributed storage and advertising system.
+🌱 I’m currently learning distributed system and advertising system.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahui-97&theme=flag-india&show_icons=true&hide=stars) -->
 
